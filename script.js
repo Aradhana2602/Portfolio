@@ -91,11 +91,11 @@ srRight.reveal('.form-control',{delay: 100})
 
         // JavaScript function to handle the download
         function downloadCV() {
-          const cvFilePath = 'https://drive.google.com/uc?export=download&id=1Y5Ql46FrQSDupYg4gAcss-P5ysSqGVsi'; // Link for direct download
+          const cvFilePath = 'https://drive.google.com/file/d/1cRov0CzPGFnA3OpoEHBk2zTdUtUgenNT/view?usp=drivesdk'; // Link for direct download
 
           const link = document.createElement('a');
           link.href = cvFilePath;
-          link.download = 'YourName_CV.pdf'; // Optional: Rename the file during download
+          link.download = 'Aradhana_CV.pdf'; //
           document.body.appendChild(link);
           link.click();
           document.body.removeChild(link);
