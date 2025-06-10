@@ -1,13 +1,14 @@
 export const webProjects = [
-  {
-    id: 1,
-    title: "Food Delivery App (MERN Stack)",
-    image: "/assets/food.png", // place image in public/images folder
-    description:
-      "A robust MERN stack food delivery app featuring user authentication, cart management, and secure payment integration for seamless online ordering.",
-    link: "https://github.com/Aradhana2602/Project1",
-    site: "https://main--momomias.netlify.app/momomia",
-  },
+ {
+  id: 1,
+  title: "Food Service (MERN Stack)",
+  image: "/assets/food.png", // place image in public/images folder
+  description:
+    "A MERN stack web application that showcases a restaurant’s offerings, featuring user authentication, interactive menus, and a cart system for exploring available dishes.",
+  link: "https://github.com/Aradhana2602/Project1",
+  site: "https://main--momomias.netlify.app/momomia",
+},
+
   {
     id: 2,
     title: "Genesis Website",
