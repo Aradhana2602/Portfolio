@@ -23,7 +23,7 @@ export const Navbar = () => {
           <Link href="https://www.linkedin.com/in/aradhana-kumari-863860289/" target="_blank" aria-label="LinkedIn">
             <LinkedinIcon className="w-6 h-6 text-white" />
           </Link>
-          <Link href="https://example.com/your_resume.pdf" target="_blank" className="text-white font-medium hover:underline" aria-label="Resume">
+          <Link href="https://drive.google.com/file/d/165g0sg9tM9rJy4zjYNuS4z8b0TyFLL-J/view?usp=drivesdk" target="_blank" className="text-white font-medium hover:underline" aria-label="Resume">
             Resume
           </Link>
         </div>
